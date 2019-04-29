@@ -1,0 +1,9 @@
+.the-span{
+	display: inline;
+	position: absolute;
+}
+
+#cardImage 
+{
+	width: 60%;
+}

@@ -1,0 +1,24 @@
+
+/* Pokemon Type CSS*/
+.poke_type
+{
+    display:inline-block;
+    vertical-align:text-top;
+}
+
+.poke_type img
+{
+    width: 20%;
+    height: 20%;
+}
+
+.poke_type p
+{
+	display: inline;
+}
+
+.poke_type .smaller
+{
+	width: 20px;
+	height: 20px;
+}
