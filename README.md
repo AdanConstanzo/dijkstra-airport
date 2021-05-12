@@ -6,6 +6,6 @@ From there we use Dijkstra's algorithm to find the shortest path between airport
 
 Project DB Terminal Commands to import database.
 
-mongorestore -d djkstra -c Airports airports.bson
+mongorestore -d djkstra -c airports airports.bson
 
-mongorestore -d djkstra -c Routes routes.bson
+mongorestore -d djkstra -c routes routes.bson
